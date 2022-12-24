@@ -17,3 +17,32 @@ header{
 .container_form{
   width: 80%;
 }
+
+main{
+  min-height: 80vh;
+}
+
+/* Footer */
+footer{
+  font-size: .8rem;
+  position: absolute;
+  width: 100%;
+  bottom: 0;
+}
+
+footer i{
+  font-size: 1rem;
+}
+
+@media screen and (min-width:768px){
+  .container_form {
+      width: 50%;
+  }
+}
+
+@media screen and (min-width:992px){
+  .container_form {
+    width: 25%;
+  }
+}
+

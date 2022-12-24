@@ -1,10 +1,9 @@
 const wsp = 'https://wa.me/54'
 
 const gererarChat = () => {
-  console.log('funca chat')
+  // console.log('funca chat')
   const numero = document.getElementById('numero').value;
   const mensaje = document.querySelector('.mensaje');
-
 
    if (numero) {
     window.open(wsp+numero,'_blank')
@@ -14,12 +13,10 @@ const gererarChat = () => {
       El numero debe tener 10 digitos
     </div> `
   }
- 
-
 }
 
 const gererarLink = () => {
-  console.log('funca link')
+  // console.log('funca link')
   const numero = document.getElementById('numero').value;
   const mensaje = document.querySelector('.mensaje');
   
@@ -33,8 +30,6 @@ const gererarLink = () => {
     <div class="alert alert-danger" role="alert">
       El numero debe tener 10 digitos
     </div> `
-  }
-  
-      
+  }     
 }
 
