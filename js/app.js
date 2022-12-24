@@ -5,7 +5,7 @@ const gererarChat = () => {
   const numero = document.getElementById('numero').value;
   const mensaje = document.querySelector('.mensaje');
 
-   if (numero) {
+   if (numero.length == 10) {
     window.open(wsp+numero,'_blank')
   } else {
     mensaje.innerHTML = `
