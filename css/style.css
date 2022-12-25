@@ -24,7 +24,7 @@ main{
 
 /* Footer */
 footer{
-  font-size: .8rem;
+  font-size: .9rem;
   position: absolute;
   width: 100%;
   bottom: 0;
@@ -38,11 +38,19 @@ footer i{
   .container_form {
       width: 50%;
   }
+
+  footer i{
+  font-size: 1.3rem;
+}
 }
 
 @media screen and (min-width:992px){
   .container_form {
-    width: 25%;
+    width: 30%;
+  }
+
+  footer i{
+    font-size: 1.3rem;
   }
 }
 
