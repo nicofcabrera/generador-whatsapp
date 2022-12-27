@@ -10,7 +10,7 @@ Quiero aclarar que lo pensé para el lugar donde estoy viviendo ahora, Tucumán 
 
 Si ves que le puedes adaptar de acuerdo a donde estas viviendo, te animo a clonarlo y acomodarlo de acuerdo a tus necesidades :)
 
-Link deploy: [Generador Whatsapp](# "Ir al Generador de Chat Directo y Link para Whatsapp")
+Link deploy: [Generador Whatsapp](https://wondrous-stroopwafel-53f553.netlify.app/ "Ir al Generador de Chat Directo y Link para Whatsapp")
 
 ## ¿Como usarlo?
 
@@ -22,9 +22,7 @@ _PD: exclusivo Tucuman._
    - Si deseas tener el Link para compartir, hacer clic en **"Obtener link"**.
    - Si deseas ir hacia el chat directo sin la necesidad de agendar el número de telefono, hacer clic en **"Ir al chat"**.
 
-<br>
-<hr>
-<br>
+## Contacto
 
 _Cualquier sugerencia es bienvenida con el fin de querer seguir mejorando. Gracias por ver :)_
 
