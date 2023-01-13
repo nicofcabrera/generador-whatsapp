@@ -4,7 +4,7 @@ La idea surgió ante una necesidad propia de querer mandar un mensaje por _Whats
 
 Consultando en el sitio oficial de _Whatsapp_, te dejaban unas indicaciones para realizarlo manualmente con un link en el cual deberías borrar unos caracteres, luego colocar el número de celular, copiar el link y abrirlo en el navegador. Asi sucesivamente cada vez que necesitaba.
 
-Ante esto, pensé que podía hacer una _Mini App_ muy sencilla en funcionalidades para darme lo que necesitaba o mejor dicho solucionarme esa "problematica" que sentía.
+Ante esto, pensé que podía hacer una _Mini App_ muy sencilla en funcionalidades para darme lo que necesitaba o mejor dicho solucionarme esa "problematica" que sentía. La propuesta esta realizada con **HTML**, **CSS**, **Bootstrap** y **Javascript**.
 
 Quiero aclarar que lo pensé para el lugar donde estoy viviendo ahora, Tucumán - Argentina. Probablemente lo ampliaré para que sea adaptable el uso para otras ciudades...
 
